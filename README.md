@@ -61,10 +61,10 @@ We compare **two types of models** for each scenario:
 
 ## Skills & Techniques
 
-* Python / R for data analysis
+* Python for data analysis
 * Feature engineering and preprocessing
 * Logistic Regression & Gradient Boosting Trees
-* Text analysis / NLP for open-text responses
+* Text analysis for open-text responses
 * Model evaluation and regularization
 
 ---
