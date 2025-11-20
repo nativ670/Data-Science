@@ -71,7 +71,7 @@ We compare **two types of models** for each scenario:
 
 ## Dataset
 
-* [https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles]
+* https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
 * 59,946 user profiles from San Francisco
 * Includes categorical, numerical, and textual data
 
